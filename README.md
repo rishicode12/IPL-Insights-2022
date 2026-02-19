@@ -44,25 +44,25 @@ Team statistics
 
 ## 4. Key Questions (KPIs)
 
-1.This project answers the following analytical questions:
+This project answers the following analytical questions:
 
-2.Which team performed best in IPL 2022?
+1.Which team performed best in IPL 2022?
 
-3.Which team won more matches while defending vs chasing?
+2.Which team won more matches while defending vs chasing?
 
-4.Who were the top bowlers by wickets taken?
+3.Who were the top bowlers by wickets taken?
 
-5.Who were the top batsmen by runs scored?
+4.Who were the top batsmen by runs scored?
 
-6.Which player won the highest number of Man of the Match awards?
+5.Which player won the highest number of Man of the Match awards?
 
-7.Which team won the highest number of matches?
+6.Which team won the highest number of matches?
 
-8.Who was the highest run scorer in IPL 2022?
+7.Who was the highest run scorer in IPL 2022?
 
-9.Does winning the toss increase winning chances?
+8.Does winning the toss increase winning chances?
 
-Which team won the highest number of tosses?
+9.Which team won the highest number of tosses?
 
 ## 5. Process Followed
 Step 1: Data Cleaning
