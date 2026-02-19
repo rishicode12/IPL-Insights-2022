@@ -65,7 +65,7 @@ This project answers the following analytical questions:
 9.Which team won the highest number of tosses?
 
 ## 5. Process Followed
-Step 1: Data Cleaning
+**Step 1: Data Cleaning**
 
 Removed missing values
 
@@ -75,7 +75,7 @@ Converted data types
 
 Handled inconsistent records
 
-Step 2: Data Processing
+**Step 2: Data Processing**
 
 Created derived columns (win type, match margin)
 
@@ -85,7 +85,7 @@ Calculated win percentages
 
 Prepared player performance metrics
 
-Step 3: Exploratory Data Analysis (EDA)
+**Step 3: Exploratory Data Analysis (EDA)**
 
 Performed analysis using:
 
@@ -93,7 +93,7 @@ Pandas
 
 NumPy
 
-Step 4: Visualization
+**Step 4: Visualization**
 
 Charts created using:
 
@@ -103,13 +103,13 @@ Plotly
 
 Seaborn
 
-Visualizations Include:
+## Visualizations Include:
 
 Team performance comparison
 
 Top players ranking
 
-Toss impact analysis
+
 
 Venue-based performance insights
 
