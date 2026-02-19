@@ -1,10 +1,11 @@
-🏏 IPL 2022 Data Analytics Dashboard
-1. Project Title
+#🏏 IPL 2022 Data Analytics Dashboard
+
+## 1. Project Title
 IPL 2022 Match & Player Performance Analysis
 
 This data analytics project explores match outcomes, team performance, player statistics, and match conditions from the Indian Premier League (IPL) 2022 season using Python and data visualization techniques.
 
-2. Project Objectives
+## 2. Project Objectives
 
 The main goals of this project are:
 
@@ -18,7 +19,7 @@ Find factors influencing winning probability
 
 Present insights using clear and interactive dashboards
 
-3. Dataset Used
+## 3. Dataset Used
 
 Source: IPL 2022 Match Dataset (CSV format)
 
@@ -41,7 +42,7 @@ Runs, wickets, overs
 
 Team statistics
 
-4. Key Questions (KPIs)
+## 4. Key Questions (KPIs)
 
 This project answers the following analytical questions:
 
@@ -63,7 +64,7 @@ Does winning the toss increase winning chances?
 
 Which team won the highest number of tosses?
 
-5. Process Followed
+## 5. Process Followed
 Step 1: Data Cleaning
 
 Removed missing values
@@ -112,11 +113,11 @@ Toss impact analysis
 
 Venue-based performance insights
 
-6. Dashboard Images
+## 6. Dashboard Images
 
 (Add screenshots after uploading images to your repository)
 
-Example format:
+## Example format:
 
 ![Team Performance](images/team_performance.png)
 ![Top Batsmen](images/top_batsmen.png)
@@ -124,6 +125,6 @@ Example format:
 ![Toss Impact](images/toss_impact.png)
 ![Venue Analysis](images/venue_analysis.png)
 
-📌 Project Outcome
+## 📌 Project Outcome
 
 This project demonstrates practical data analytics skills including data cleaning, statistical analysis, visualization, and storytelling using real-world sports data. The insights help understand match strategies, team consistency, and performance trends in IPL 2022.
