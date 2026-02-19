@@ -1,4 +1,4 @@
-#🏏 IPL 2022 Data Analytics Dashboard
+# IPL 2022 Data Analytics Dashboard
 
 ## 1. Project Title
 IPL 2022 Match & Player Performance Analysis
