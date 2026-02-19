@@ -26,7 +26,7 @@ Source: IPL 2022 Match Dataset (CSV format)
 Dataset File: IPL_data_2022.csv
 
 Kaggle Link:
-IPL 2022 Dataset
+<a href="https://www.kaggle.com/datasets/aravindas01/ipl-2022dataset">IPL 2022 Dataset</a>
 
 Dataset Includes:
 
