@@ -1,4 +1,4 @@
-# 🏏 IPL 2022: Match & Player Performance Analytics
+# 🏏 IPL 2022: Match & Player Performance Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-ff69b4?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
